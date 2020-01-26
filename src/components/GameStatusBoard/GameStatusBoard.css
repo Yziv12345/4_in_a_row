@@ -1,0 +1,9 @@
+.boardtable {
+    border-style: solid;
+    text-align: center;
+    font-size: 15px;
+    margin-top: -350px;
+    width: 30%;
+    margin-right: -70px;
+    float: right;
+}
